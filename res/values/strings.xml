@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TXT2Locate</string>
+    
+    <string name="sms_location_settings">Settings</string>
+    
+    <string name="enable_location_check">Enable or Disable</string>
+    <string name="enable_location_check_summ">Turn on or off the TXT2Locate application</string>
+    
+    <string name="contact_filter_screen">Filter</string>
+    <string name="contact_filter_screen_summ">Control who can query for location information</string>
+    
+    <string name="contact_filter">Filter Selection</string>
+    
+    <string name="contact_selection">Contact Selection</string>
+    
+    <string-array name="contact_filter_choices">
+        <item name="0">All text messages</item>
+        <item name="1">Only text messages from selected contacts</item>
+        <item name="2">Exclude text messages from selected contacts</item>
+    </string-array>
+    
+    <string-array name="contact_filter_values">
+        <item name="0">0</item>
+        <item name="1">1</item>
+        <item name="2">2</item>
+    </string-array>
+    
+    <string name="return_string_title">Location Return Text</string>
+    <string name="return_string">http://maps.google.com/?q=_LAT_,_LONG_</string>
+    <string name="return_string_summ">Location text returned by the application</string>
+
+    <string name="location_string">TXT2Locate</string>
+    <string name="location_string_title">Location Trigger</string>
+    <string name="location_string_summ">Text to trigger a location TXT response message</string>
+    
+    <string name="enable_bearing">Add Bearing Information</string>
+    <string name="enable_bearing_summ">Send information about the direction of travel</string>
+    
+    <string name="enable_velocity">Add Velocity Information</string>
+    <string name="enable_velocity_summ">Send information about the speed of travel</string>
+    
+    <string name="log_text_message">Write Return TXT to History</string>
+    <string name="log_text_message_summ">Store the return text message to your message history</string>
+    
+    <string name="enable_altitude">Add Altitude Information</string>
+    <string name="enable_altitude_summ">Send information about the current altitude</string>
+    
+    <string name="check_offending_apps">Check for app conflicts</string>
+    <string name="check_offending_apps_summ">Check for apps that do not allow text messages to pass through to other applications</string>
+    
+    
+    <string name="units_screen">Units</string>
+    <string name="units_screen_summ">Units of the returned altitude and speed</string>
+    
+    <string name="length_unit">Length Unit</string>
+    <string-array name="length_unit_choices">
+        <item name="0">Meters</item>
+        <item name="1">Feet</item>
+    </string-array>
+    <string-array name="length_unit_values">
+        <item name="0">0</item>
+        <item name="1">1</item>
+    </string-array>
+       
+    <string name="velocity_unit">Velocity Unit</string>
+    <string-array name="velocity_unit_choices">
+        <item name="0">km/hr</item>
+        <item name="1">mph</item>
+        <item name="2">m/s</item>
+        <item name="3">ft/s</item>
+    </string-array>
+    <string-array name="velocity_unit_values">
+        <item name="0">0</item>
+        <item name="1">1</item>
+        <item name="2">2</item>
+        <item name="3">3</item>
+    </string-array>
+    
+    <string name="gps_network_not_available">GPS and Network location services are disabled</string>
+    <string name="unable_to_get_location">Unable to get location</string>
+    <string name="bearing_str">Bearing</string>
+    <string name="altitude_str">Altitude</string>
+    <string name="degrees_str">deg</string>
+    <string name="meters_str">m</string>
+    <string name="feet_str">ft</string>
+    
+    <string name="velocity_str">Velocity</string>
+    <string name="kmhr_str">km/hr</string>
+    <string name="mph_str">mph</string>
+    <string name="m_per_s_str">m/s</string>
+    <string name="ft_per_s_str">ft/s</string>
+    
+    <string name="requested_your_location">Location request</string>
+    <string name="notification_title">Notification</string>
+    <string name="done_btn">Done</string>
+    
+    <string name="using_network_provider">Using closest cell tower or wifi network</string>
+    <string name="sms_pro_message">GO SMS Pro may prevent TXT2Locate from working properly. Go to: http://txt2locate.blogspot.com/p/txt2locate-frequently-asked-questions.html</string>
+    <string name="sms_pro_message_title">GO SMS Pro found</string>
+    <string name="sent_location_using_gps">Location sent using GPS</string>
+    <string name="no_location_sent">Unable to send location</string>
+    <string name="sent_location_using_cell">Location sent using cell tower or wifi location</string>
+    <string name="close_button">Close</string>
+</resources>

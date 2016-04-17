@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="txt2location_notification.svg"
+   inkscape:export-ydpi="4.21875"
+   inkscape:export-xdpi="4.21875"
+   inkscape:export-filename="C:\Users\showmans\Documents\Android\workspace\TXT2Location\res\drawable\notify.png"
+   inkscape:version="0.48.4 r9939"
+   version="1.1"
+   id="svg2"
+   height="512"
+   width="512">
+  <defs
+     id="defs4">
+    <linearGradient
+       id="linearGradient3195">
+      <stop
+         style="stop-color:#faffff;stop-opacity:1;"
+         offset="0"
+         id="stop3197" />
+      <stop
+         id="stop3205"
+         offset="0.25"
+         style="stop-color:#0000db;stop-opacity:1;" />
+      <stop
+         id="stop3203"
+         offset="0.5"
+         style="stop-color:#0000a0;stop-opacity:1;" />
+      <stop
+         style="stop-color:#000042;stop-opacity:1;"
+         offset="1"
+         id="stop3199" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3187">
+      <stop
+         style="stop-color:#00c6ff;stop-opacity:1;"
+         offset="0"
+         id="stop3189" />
+      <stop
+         style="stop-color:#000079;stop-opacity:1;"
+         offset="1"
+         id="stop3191" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3175">
+      <stop
+         style="stop-color:#800000;stop-opacity:1;"
+         offset="0"
+         id="stop3177" />
+      <stop
+         style="stop-color:#e60000;stop-opacity:1;"
+         offset="1"
+         id="stop3179" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3157">
+      <stop
+         style="stop-color:#800000;stop-opacity:1;"
+         offset="0"
+         id="stop3159" />
+      <stop
+         id="stop3165"
+         offset="0.0256059"
+         style="stop-color:#4d0000;stop-opacity:1;" />
+      <stop
+         style="stop-color:#bf0000;stop-opacity:1;"
+         offset="1"
+         id="stop3161" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3814">
+      <stop
+         style="stop-color:#ff5000;stop-opacity:1;"
+         offset="0"
+         id="stop3816" />
+      <stop
+         style="stop-color:#8c0000;stop-opacity:1;"
+         offset="1"
+         id="stop3818" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3797">
+      <stop
+         style="stop-color:#333333;stop-opacity:1;"
+         offset="0"
+         id="stop3799" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="1"
+         id="stop3801" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3773">
+      <stop
+         style="stop-color:#cccccf;stop-opacity:1;"
+         offset="0"
+         id="stop3775" />
+      <stop
+         id="stop3795"
+         offset="0.04367667"
+         style="stop-color:#6a6a6a;stop-opacity:1" />
+      <stop
+         id="stop3793"
+         offset="0.16960666"
+         style="stop-color:#cccccf;stop-opacity:1;" />
+      <stop
+         id="stop3791"
+         offset="0.77599502"
+         style="stop-color:#aaaaaa;stop-opacity:1;" />
+      <stop
+         id="stop3789"
+         offset="0.81769979"
+         style="stop-color:#535353;stop-opacity:1;" />
+      <stop
+         id="stop3787"
+         offset="0.85099393"
+         style="stop-color:#565656;stop-opacity:1;" />
+      <stop
+         id="stop3785"
+         offset="0.88148952"
+         style="stop-color:#6d6d6d;stop-opacity:1;" />
+      <stop
+         id="stop3783"
+         offset="0.9117533"
+         style="stop-color:#cccccf;stop-opacity:1;" />
+      <stop
+         style="stop-color:#a8a8a8;stop-opacity:1;"
+         offset="1"
+         id="stop3777" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3797"
+       id="linearGradient3803"
+       x1="242.36101"
+       y1="542.62274"
+       x2="242.36101"
+       y2="1051.324"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3814"
+       id="radialGradient3820"
+       cx="319.71933"
+       cy="797.5047"
+       fx="319.71933"
+       fy="797.5047"
+       r="171.53813"
+       gradientTransform="matrix(1.4180306,8.7855368e-8,-9.7458806e-8,1.573035,-133.6524,-457.00281)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3187"
+       id="linearGradient3193"
+       x1="241"
+       y1="406.36218"
+       x2="258"
+       y2="1052.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3906243,0,0,0.91524882,-100.10969,56.729878)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3195"
+       id="linearGradient3201"
+       x1="198"
+       y1="540.36218"
+       x2="259"
+       y2="1073.3622"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.5193948,0,0,1,-133.11116,0)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="145.19603"
+     inkscape:cy="285.40002"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     borderlayer="true"
+     inkscape:showpageshadow="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="false"
+     inkscape:snap-page="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3153" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-540.36218)">
+    <path
+       style="fill:#999999;fill-opacity:1"
+       d="M 256.28125 5 C 151.26904 5 66.125 61.04175 66.125 130.15625 C 66.125 160.50199 93.276092 202.0125 119.875 213.8125 C 169.24583 312.0125 216.74394 405.37807 260.1875 509 C 281.63615 456.3161 336.38974 312.0125 385.5625 213.8125 C 412.35948 202.0125 446.4375 155.50635 446.4375 130.15625 C 446.4375 61.04175 361.29346 5 256.28125 5 z M 108.09375 66.96875 L 199.8125 66.96875 L 199.8125 80.9375 L 161.53125 80.9375 L 161.53125 185.4375 L 146.21875 185.4375 L 146.21875 80.9375 L 108.09375 80.9375 L 108.09375 66.96875 z M 209.125 66.96875 L 227.34375 66.96875 L 248.34375 97.34375 C 252.71131 103.64665 255.81444 108.5125 257.65625 111.90625 C 260.23466 107.59671 263.28678 103.09304 266.8125 98.40625 L 290.09375 66.96875 L 306.75 66.96875 L 266.09375 122.8125 L 309.90625 185.4375 L 290.96875 185.4375 L 261.84375 143.15625 C 260.21242 140.73213 258.51771 138.10517 256.78125 135.25 C 254.20273 139.55967 252.35501 142.50894 251.25 144.125 L 222.21875 185.4375 L 203.8125 185.4375 L 248.59375 123.6875 L 209.125 66.96875 z M 314.875 66.96875 L 406.59375 66.96875 L 406.59375 80.9375 L 368.3125 80.9375 L 368.3125 185.4375 L 353 185.4375 L 353 80.9375 L 314.875 80.9375 L 314.875 66.96875 z "
+       transform="translate(0,540.36218)"
+       id="path3104"
+       inkscape:export-filename="C:\Users\showmans\Documents\Android\workspace\TXT2Location\res\drawable\path3104.png"
+       inkscape:export-xdpi="4.21875"
+       inkscape:export-ydpi="4.21875" />
+  </g>
+</svg>

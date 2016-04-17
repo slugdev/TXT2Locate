@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <CheckBoxPreference
+        android:defaultValue="true"
+        android:key="pref_enable"
+        android:summary="@string/enable_location_check_summ"
+        android:title="@string/enable_location_check" />
+
+     <PreferenceCategory
+        android:key="pref_location_cat"
+        android:title="@string/sms_location_settings" >
+        
+        <PreferenceScreen
+            android:key="pref_contact_filter_screen"
+            android:title="@string/contact_filter_screen"
+            android:summary="@string/contact_filter_screen_summ" 
+            android:dependency="pref_enable">
+            
+        <ListPreference
+            android:key="pref_contact_filter"
+            android:entries="@array/contact_filter_choices"
+            android:entryValues="@array/contact_filter_values"
+            android:defaultValue="0"
+            android:title="@string/contact_filter" />
+
+        <slugsoftware.utilities.txt2location.MultiselectContactPreference
+                android:key="contact_selection"
+                android:persistent="true"
+                android:title="@string/contact_selection" />
+        </PreferenceScreen>
+        
+
+        <EditTextPreference
+            android:defaultValue="@string/location_string"
+            android:key="pref_location_string"
+            android:summary="@string/location_string_summ"
+            android:title="@string/location_string_title" 
+            android:dependency="pref_enable"/>
+        
+        <EditTextPreference
+            android:defaultValue="@string/return_string"
+            android:key="pref_return_string"
+            android:summary="@string/return_string_summ"
+            android:title="@string/return_string_title"
+            android:dependency="pref_enable" />
+
+        
+         <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="pref_log_text_message"
+            android:summary="@string/log_text_message_summ"
+            android:title="@string/log_text_message"
+            android:dependency="pref_enable" />
+                
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="pref_send_bearing"
+            android:summary="@string/enable_bearing_summ"
+            android:title="@string/enable_bearing"
+            android:dependency="pref_enable" />
+        
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="pref_send_altitude"
+            android:summary="@string/enable_altitude_summ"
+            android:title="@string/enable_altitude"
+            android:dependency="pref_enable" />
+        
+         <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="pref_send_velocity"
+            android:summary="@string/enable_velocity_summ"
+            android:title="@string/enable_velocity"
+            android:dependency="pref_enable" />
+        
+         <PreferenceScreen
+            android:key="pref_units"
+            android:title="@string/units_screen"
+            android:summary="@string/units_screen_summ" 
+            android:dependency="pref_enable">
+            
+         <ListPreference
+            android:key="pref_length_unit"
+            android:entries="@array/length_unit_choices"
+            android:entryValues="@array/length_unit_values"
+            android:defaultValue="0"
+            android:title="@string/length_unit"
+            android:dependency="pref_enable" />
+
+         <ListPreference
+            android:key="pref_velocity_unit"
+            android:entries="@array/velocity_unit_choices"
+            android:entryValues="@array/velocity_unit_values"
+            android:defaultValue="0"
+            android:title="@string/velocity_unit"
+            android:dependency="pref_enable" />
+        
+        </PreferenceScreen>
+                
+          <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="pref_check_offending_apps"
+            android:summary="@string/check_offending_apps_summ"
+            android:title="@string/check_offending_apps"
+            android:dependency="pref_enable" />
+          
+          
+         
+    </PreferenceCategory>
+
+</PreferenceScreen>
